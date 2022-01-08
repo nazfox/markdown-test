@@ -24,3 +24,10 @@
 - [ ] hoge [[foo](http://nazfox.ch)]  
            [[bar](http://nazfox.ch)]
 - [ ] fuga [[fox](http://nazfox.ch)]
+
+---
+
+- [ ] foo
+- [ ] * aaa
+- [ ]  bbb
+- [ ] * ccc

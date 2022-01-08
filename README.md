@@ -18,3 +18,9 @@
 1. [ ] todo 1
 1. [ ] todo 2
 1. [ ] todo 3
+
+---
+
+- [ ] hoge [[foo](http://nazfox.ch)]  
+           [[bar](http://nazfox.ch)]
+- [ ] fuga [[fox](http://nazfox.ch)]
